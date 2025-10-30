@@ -2,6 +2,9 @@
 
 A modern, real-time analytics dashboard built with React and Node.js, featuring WebSocket connections for live data updates.
 
+Frontend: https://analytic-dashboard-lovat.vercel.app/
+Backend:https://analytic-dashboard-f00s.onrender.com
+
 ## 🚀 Features
 
 - **Real-time Updates**: Live data streaming via Socket.io
